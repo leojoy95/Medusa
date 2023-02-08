@@ -14,7 +14,7 @@ dogpile.cache==0.7.1
 enum34==1.1.6 ; python_version == '2.*'
 https://codeload.github.com/pymedusa/enzyme/tar.gz/665cf6948aab1c249dcc99bd9624a81d17b3302a#egg=enzyme
 https://codeload.github.com/kurtmckee/feedparser/tar.gz/2b11c8028321ed43cbaf313f83b0c94820143d66#egg=feedparser
-future==0.17.1 ; python_version == '2.*'
+future==0.18.3 ; python_version == '2.*'
 futures==3.2.0 ; python_version == '2.*'
 gntp==1.0.3
 https://codeload.github.com/guessit-io/guessit/tar.gz/74dbb0c7420cee18969926aba9cc06b8959daa0e#egg=guessit
