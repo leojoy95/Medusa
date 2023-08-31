@@ -81,7 +81,7 @@
     "glob": "7.1.4",
     "gulp": "4.0.2",
     "gulp-changed": "4.0.0",
-    "gulp-imagemin": "6.0.0",
+    "gulp-imagemin": "8.0.0",
     "imagemin-pngquant": "8.0.0",
     "jest": "24.8.0",
     "jest-haste-map": "24.8.0",
