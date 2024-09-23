@@ -6,7 +6,7 @@ CacheControl==0.12.5
 certifi==2019.3.9
 cfscrape==2.0.5
 chardet==3.0.4
-configobj==5.0.6
+configobj==5.0.9
 contextlib2==0.5.5
 deluge-client==1.7.1
 dirtyjson==1.0.7
