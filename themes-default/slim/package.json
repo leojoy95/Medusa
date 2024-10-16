@@ -38,7 +38,7 @@
     "jquery": "3.4.1",
     "lodash": "4.17.11",
     "tablesorter": "2.31.1",
-    "vue": "2.6.10",
+    "vue": "3.0.0",
     "vue-async-computed": "3.7.0",
     "vue-cookie": "1.1.4",
     "vue-good-table": "https://github.com/p0psicles/vue-good-table#master",
@@ -70,7 +70,7 @@
     "css-loader": "2.1.1",
     "eslint": "5.16.0",
     "eslint-config-xo": "0.26.0",
-    "eslint-import-resolver-webpack": "0.11.1",
+    "eslint-import-resolver-webpack": "0.13.1",
     "eslint-plugin-eslint-comments": "3.1.1",
     "eslint-plugin-import": "2.17.3",
     "eslint-plugin-jest": "22.6.4",
@@ -94,7 +94,7 @@
     "stylelint-config-standard": "18.3.0",
     "vue-jest": "3.0.4",
     "vue-loader": "15.7.0",
-    "webpack": "4.33.0",
+    "webpack": "5.0.0",
     "webpack-cli": "3.3.3"
   },
   "stylelint": {
